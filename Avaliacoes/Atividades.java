@@ -81,5 +81,5 @@ class Atividades {
             System.out.println("O Valor Foi Descontado em 10%! o Preço final da Compra é R$" + total);
         }
 
-    }
+     }
 }
