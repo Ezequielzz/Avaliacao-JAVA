@@ -1,4 +1,4 @@
-package Avaliacoes;
+ package Avaliacoes;
 
 import java.util.Scanner;
 
@@ -44,7 +44,7 @@ class Atividades {
         }
 
     }
-
+ 
     public void atividade2() {
         System.out.println("Digite Seu Nº de Matrícula");
         int matricula = sc.nextInt();
@@ -62,7 +62,7 @@ class Atividades {
     }
 
 
-
+ 
     public void atividade3() {
         System.out.println("Informe a Quantidade de Morangos Adquiridos:");
         double morango = sc.nextDouble();
@@ -82,4 +82,4 @@ class Atividades {
         }
 
      }
-}
+ }
