@@ -1,4 +1,4 @@
- package Avaliacoes;
+package Avaliacoes;
 
 import java.util.Scanner;
 
